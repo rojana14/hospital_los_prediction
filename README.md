@@ -8,7 +8,6 @@ This project aims to predict the **length of hospital stay** for patients using 
 
 - **Source**: [Hospital Length of Stay Dataset (Microsoft) – Kaggle](https://www.kaggle.com/datasets/aayushchou/hospital-length-of-stay-dataset-microsoft/data)
 - **Target Variable**: `lengthofstay` (continuous, in days)
-- **Target Variable**: `lengthofstay` (continuous, in days)
 - **Features**:
   - Demographics: `gender`, `facid`
   - Diagnoses: Binary columns like `asthma`, `pneum`, `depress`, etc.
